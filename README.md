@@ -1,4 +1,4 @@
-# GSI-calulation
+# GSI-calulation tool
 
 The GSI tool can be use to calculated the Geological Strength Index(GSI) of the rock mass based upon the method proposed by Cai et al. (2004).
 
