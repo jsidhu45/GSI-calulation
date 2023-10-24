@@ -2,7 +2,7 @@
 
 The GSI tool can be use to calculated the Geological Strength Index(GSI) of the rock mass based upon the method proposed by Cai et al. (2004).
 
-The repository was created by Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India.
+The repository was created by Dr. Jaspreet Singh, Department of Earth Sciences, Indian Institute of Technology Roorkee, Roorkee, India.
 
 Step to Follow:
 
